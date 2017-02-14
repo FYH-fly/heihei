@@ -1,6 +1,5 @@
 
 # Android 名企面试题及涉及知识点整理。
-### (我会持续更新，欢迎watch)
 
 
 ## [Android](https://github.com/1187981465/AndroidInterview/tree/master/android)
@@ -181,8 +180,7 @@
 
 ## About
 
-   　　目前仓库中所有文章均为原创，如发现不妥之处，欢迎在Issues中提出，感激不尽！
-   如果有资源要奉献的朋友，请也在Issues提出，我会通过id把你添加成合作者。
+
    
    面试经验来源于网络
 
